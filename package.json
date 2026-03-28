@@ -1,6 +1,6 @@
 {
   "name": "changeflow-mcp-server",
-  "mcpName": "io.github.stevebutterworth/changeflow",
+  "mcpName": "io.github.changeflowhq/changeflow",
   "version": "1.0.2",
   "description": "Changeflow MCP server - monitor any website and get AI-enriched change intelligence. Manage sources, search changes, create monitors.",
   "keywords": [
@@ -18,7 +18,7 @@
   "homepage": "https://changeflow.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevebutterworth/changeflow-mcp.git"
+    "url": "git+https://github.com/changeflowhq/changeflow-mcp.git"
   },
   "author": "Changeflow <hello@changeflow.com>",
   "license": "MIT",

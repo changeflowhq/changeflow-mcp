@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.stevebutterworth/changeflow",
+  "name": "io.github.changeflowhq/changeflow",
   "description": "AI-powered web monitoring. Track any website, get structured change intelligence.",
   "repository": {
-    "url": "https://github.com/stevebutterworth/changeflow-mcp",
+    "url": "https://github.com/changeflowhq/changeflow-mcp",
     "source": "github"
   },
   "version": "1.0.2",
