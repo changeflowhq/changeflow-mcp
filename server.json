@@ -1,0 +1,29 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.stevebutterworth/changeflow",
+  "description": "AI-powered web monitoring and change intelligence. Monitor any website, get structured change briefings. Manage sources, search changes, create monitors.",
+  "repository": {
+    "url": "https://github.com/stevebutterworth/changeflow-mcp",
+    "source": "github"
+  },
+  "version": "1.0.2",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "changeflow-mcp-server",
+      "version": "1.0.2",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "description": "Your Changeflow API token from https://changeflow.com/account/api",
+          "isRequired": true,
+          "format": "string",
+          "isSecret": true,
+          "name": "CHANGEFLOW_API_TOKEN"
+        }
+      ]
+    }
+  ]
+}
