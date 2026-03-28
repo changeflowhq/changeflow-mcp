@@ -1,0 +1,33 @@
+{
+  "name": "@changeflow/mcp-server",
+  "version": "1.0.0",
+  "description": "Changeflow MCP server - monitor any website and get AI-enriched change intelligence. Manage sources, search changes, create monitors.",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "website-monitoring",
+    "change-detection",
+    "web-intelligence",
+    "changeflow",
+    "ai-tools",
+    "regulatory",
+    "compliance",
+    "competitive-intelligence"
+  ],
+  "homepage": "https://changeflow.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevebutterworth/changeflow-mcp"
+  },
+  "author": "Changeflow <hello@changeflow.com>",
+  "license": "MIT",
+  "bin": {
+    "changeflow-mcp": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
