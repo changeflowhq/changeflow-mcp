@@ -1,7 +1,7 @@
 {
   "name": "changeflow-mcp-server",
   "mcpName": "io.github.changeflowhq/changeflow",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Changeflow MCP server - monitor any website and get AI-enriched change intelligence. Manage sources, search changes, create monitors.",
   "keywords": [
     "mcp",
