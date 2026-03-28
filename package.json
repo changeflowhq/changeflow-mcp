@@ -1,6 +1,6 @@
 {
   "name": "changeflow-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Changeflow MCP server - monitor any website and get AI-enriched change intelligence. Manage sources, search changes, create monitors.",
   "keywords": [
     "mcp",
