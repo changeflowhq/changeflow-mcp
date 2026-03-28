@@ -19,7 +19,7 @@ Add to your `claude_desktop_config.json`:
   "mcpServers": {
     "changeflow": {
       "command": "npx",
-      "args": ["@changeflow/mcp-server"],
+      "args": ["changeflow-mcp-server"],
       "env": {
         "CHANGEFLOW_API_TOKEN": "your_api_token_here"
       }
